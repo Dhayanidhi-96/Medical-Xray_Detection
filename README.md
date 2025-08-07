@@ -114,7 +114,7 @@ streamlit run streamlit_app/app.py
 
 **Dhayanidhi P.**  
 _MSc Data Science | Deep Learning & AI Enthusiast_  
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+[GitHub](https://github.com/Dhayanidhi-96) | [LinkedIn](www.linkedin.com/in/dhayanidhi-p-3372b0291)
 
 ---
 
